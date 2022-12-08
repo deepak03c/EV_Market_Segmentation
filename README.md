@@ -1,4 +1,3 @@
-# EV_Market_Segmentation
 
 <p align="center"> 
   <img src="images/1.jfif" alt="1.jfif" width="80px" height="80px">
