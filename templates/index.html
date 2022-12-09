@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+    <body>
+        <form action='/predict' method="POST">
+            Accel: <input type='float' name='Accel'><br>
+            TopSpeed: <input type='float' name='TopSpeed'><br>
+            Range: <input type='float' name='Range'><br>
+            Efficiency: <input type='float' name='Efficiency'><br>
+            FastCharge: <input type='float' name='FastCharge'><br>
+            RapidCharge: <input type='float' name='RapidCharge'><br>
+            PowerTrain: <input type='float' name='PowerTrain'><br>
+            PlugType: <input type='float' name='PlugType'><br>
+            Segment: <input type='float' name='Segment'><br>
+            Seats: <input type='float' name='Seats'><br>
+            PriceINR_in_Lakhs: <input type='float' name='PriceINR_in_Lakhs'><br>										
+            
+            Class: {{result}} <br>
+            <input type='submit' value='Predict'>
+        </form>
+    </body>
+</html>
