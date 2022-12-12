@@ -30,25 +30,41 @@ EV_Market_Segmentation/DataSet at main · sushant8525/EV_Market_Segmentation (gi
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book:Data Description</h2>
+	
 *Brand	Model:Here are some of the top EV manufacturers to watch this year:Tesla.BMW.Nissan.Chevrolet.Ford.Volkswagen.Kia.
+	
 *Accel:the time that it takes to reach a particular speed.	
+	
 *TopSpeed: highest speed achived by car
+	
 *Range:“Range” refers to the distance an electric or hybrid vehicle can travel before the battery needs to be recharged.
+	
 *Efficiency:	a measure of how much a car will convert energy in fuel into kinetic energy to travel.
+	
 *FastCharge:	significantly faster than regular AC charging stations taking between 15 and 45 minutes to charge most passenger electric vehicles up to 80 percent—making it quick and easy to charge on the go.
+	
 *RapidCharge:Rapid chargers are the fastest way to charge your electric vehicle, providing between 60-200 miles of range in 20-30 mins.
+	
 *PowerTrain:A powertrain is an assembly of every component that pushes your vehicle forward	
+	
 *PlugType:	Type 1 is common for American vehicles, it’s a single-phase plug and can charge at a speed of up to 7.4 kW.
  Type 2 is standard for European and Asian vehicles from 2018 onwards, it’s a triple-phase plug and can charge at a level of up to 43 kW.
 	
 *Segment:A, B, C, D, E and M: Different car segments
+	
 A-segment (Mini hatchbacks)	
+	
 B-segment (Hatchbacks)
+	
 C-segment (Sedans)
+	
 D-segment (Mid-size luxury sedans)
+	
 E-segment (Executive sedans)
+	
 
 *Seats:	no. of seats in car 
+	
 *PriceINR_in_Lakhs: exshowroom  price of car
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -58,10 +74,15 @@ E-segment (Executive sedans)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book: conclusion on EV market in india</h2> 
+	
 * most of EV chargers Sanctioned in maharashtra and tamil nadu
+	
 *EV_Charging_Facility_available Rajasthan ,madhya pradesh and uttar pradesh
+	
 *high sales of EV 'karnatak , tamil nadu , maharashtra'
+	
 *top vehicle_class in 'Electric M-CYCLE/SCOOTER ','E-RICKSHAW ','MOTOR CAR' ,'MOPED' ,'E-RICKSHAW WITH CART'
+	
 *most of electric segment full fill 'bhart stage 6' norms
 
 
