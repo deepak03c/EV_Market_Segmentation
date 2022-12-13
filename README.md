@@ -72,10 +72,10 @@ E-segment (Executive sedans)
 
 <h2> :book:Depoyment on render</h2>
 
-[![](https://github.com/sushant8525/EV_Market_Segmentation/blob/9d31ec20412c7d355bb51c1739fa09501957304e/images/2.png)(https://ev-market-segmentation.onrender.com
+[![](https://github.com/sushant8525/EV_Market_Segmentation/blob/9d31ec20412c7d355bb51c1739fa09501957304e/images/2.png)(https://ev-market-segmentation-00gx.onrender.com/
 )
 
-https://ev-market-segmentation.onrender.com
+https://ev-market-segmentation-00gx.onrender.com/
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
