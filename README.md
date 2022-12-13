@@ -71,6 +71,11 @@ E-segment (Executive sedans)
 
 <h2> :book:Depoyment on render</h2>
 
+[![](https://github.com/sushant8525/McDonalds-case-study/blob/42f7f7c267fb9f88cfff3174f727a5323e945b9b/images/1.png)](https://mcdonalds-case-study.onrender.com/
+)
+
+https://mcdonalds-case-study.onrender.com/
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book: conclusion on EV market in india</h2> 
@@ -85,5 +90,6 @@ E-segment (Executive sedans)
 	
 *most of electric segment full fill 'bhart stage 6' norms
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
