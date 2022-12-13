@@ -66,15 +66,16 @@ E-segment (Executive sedans)
 *Seats:	no. of seats in car 
 	
 *PriceINR_in_Lakhs: exshowroom  price of car
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <h2> :book:Depoyment on render</h2>
 
-[![](https://github.com/sushant8525/McDonalds-case-study/blob/42f7f7c267fb9f88cfff3174f727a5323e945b9b/images/1.png)](https://mcdonalds-case-study.onrender.com/
+[![](https://github.com/sushant8525/EV_Market_Segmentation/blob/9d31ec20412c7d355bb51c1739fa09501957304e/images/2.png)https://mcdonalds-case-study.onrender.com/
 )
 
-https://mcdonalds-case-study.onrender.com/
+https://ev-market-segmentation.onrender.com
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
